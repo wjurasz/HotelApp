@@ -17,6 +17,18 @@ add-migration nazwa
 update-database
 ```
 
+
+### 3️⃣ Uruchomienie frontendu (React)
+📦 Wymagania:
+Zainstaluj Node.js (zalecana wersja LTS)
+https://nodejs.org
+```bash
+cd HotelApi_frontend
+npm install
+npm start
+```
+
+
 ## 🎯 Technologie  
 - C#  
 - ASP.NET Core  
@@ -24,7 +36,10 @@ update-database
 - SQL Server  
 - API REST  
 - Dependency Injection  
-- HttpClient  
+- HttpClient
+- React.js
+- Axios
+- CSS
 
 ## ✨ Funkcje  
 - Zarządzanie klientami (CRUD: Create, Read, Update, Delete)
