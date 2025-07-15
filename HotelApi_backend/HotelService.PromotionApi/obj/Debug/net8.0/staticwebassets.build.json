@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "i7JB6l8k5lvkLhVRIto6Vv3rc+Xxrwofo4qdOWYYQSQ=",
+  "Source": "HotelService.PromotionApi",
+  "BasePath": "_content/HotelService.PromotionApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

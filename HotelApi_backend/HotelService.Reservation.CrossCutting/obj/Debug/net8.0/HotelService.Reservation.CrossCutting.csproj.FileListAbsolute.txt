@@ -1,0 +1,15 @@
+C:\HotelApi\HotelService.Reservation.CrossCutting\bin\Debug\net8.0\HotelService.Reservation.CrossCutting.deps.json
+C:\HotelApi\HotelService.Reservation.CrossCutting\bin\Debug\net8.0\HotelService.Reservation.CrossCutting.runtimeconfig.json
+C:\HotelApi\HotelService.Reservation.CrossCutting\bin\Debug\net8.0\HotelService.Reservation.CrossCutting.dll
+C:\HotelApi\HotelService.Reservation.CrossCutting\bin\Debug\net8.0\HotelService.Reservation.CrossCutting.pdb
+C:\HotelApi\HotelService.Reservation.CrossCutting\obj\Debug\net8.0\HotelService.Reservation.CrossCutting.csproj.AssemblyReference.cache
+C:\HotelApi\HotelService.Reservation.CrossCutting\obj\Debug\net8.0\HotelService.Reservation.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\HotelApi\HotelService.Reservation.CrossCutting\obj\Debug\net8.0\HotelService.Reservation.CrossCutting.AssemblyInfoInputs.cache
+C:\HotelApi\HotelService.Reservation.CrossCutting\obj\Debug\net8.0\HotelService.Reservation.CrossCutting.AssemblyInfo.cs
+C:\HotelApi\HotelService.Reservation.CrossCutting\obj\Debug\net8.0\HotelService.Reservation.CrossCutting.csproj.CoreCompileInputs.cache
+C:\HotelApi\HotelService.Reservation.CrossCutting\obj\Debug\net8.0\HotelService.Reservation.CrossCutting.sourcelink.json
+C:\HotelApi\HotelService.Reservation.CrossCutting\obj\Debug\net8.0\HotelService.Reservation.CrossCutting.dll
+C:\HotelApi\HotelService.Reservation.CrossCutting\obj\Debug\net8.0\refint\HotelService.Reservation.CrossCutting.dll
+C:\HotelApi\HotelService.Reservation.CrossCutting\obj\Debug\net8.0\HotelService.Reservation.CrossCutting.pdb
+C:\HotelApi\HotelService.Reservation.CrossCutting\obj\Debug\net8.0\HotelService.Reservation.CrossCutting.genruntimeconfig.cache
+C:\HotelApi\HotelService.Reservation.CrossCutting\obj\Debug\net8.0\ref\HotelService.Reservation.CrossCutting.dll

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HotelService.ClientApi</name>
+    </assembly>
+    <members>
+        <member name="M:HotelService.ClientApi.Controllers.ClientController.GetAll">
+            <summary>
+            Zwraca listę wszystkich klientów.
+            </summary>
+            <returns>Lista obiektów typu Client.</returns>
+        </member>
+        <member name="M:HotelService.ClientApi.Controllers.ClientController.GetById(System.Int32)">
+            <summary>
+            Pobiera klienta na podstawie identyfikatora.
+            </summary>
+            <param name="id">Identyfikator klienta.</param>
+            <returns>Obiekt Client lub 404 jeśli nie znaleziono.</returns>
+        </member>
+        <member name="M:HotelService.ClientApi.Controllers.ClientController.Create(HotelService.ClientApi.Entities.Client)">
+            <summary>
+            Tworzy nowego klienta.
+            </summary>
+            <param name="dto">Dane klienta do utworzenia.</param>
+            <returns>Kod 200 po sukcesie lub 400 jeśli dane są nieprawidłowe.</returns>
+        </member>
+        <member name="M:HotelService.ClientApi.Controllers.ClientController.Delete(System.Int32)">
+            <summary>
+            Usuwa klienta na podstawie identyfikatora.
+            </summary>
+            <param name="id">Identyfikator klienta do usunięcia.</param>
+            <returns>Kod 204 jeśli usunięto lub 404 jeśli nie znaleziono.</returns>
+        </member>
+        <member name="M:HotelService.ClientApi.Controllers.ClientController.Edit(System.Int32,HotelService.ClientApi.Entities.Client)">
+            <summary>
+            Aktualizuje dane klienta (pełna aktualizacja).
+            </summary>
+            <param name="id">Identyfikator klienta.</param>
+            <param name="updatedClient">Zaktualizowany obiekt klienta.</param>
+            <returns>Kod 200 po sukcesie lub 404 jeśli nie znaleziono.</returns>
+        </member>
+        <member name="M:HotelService.ClientApi.Controllers.ClientController.Patch(System.Int32,Microsoft.AspNetCore.JsonPatch.JsonPatchDocument{HotelService.ClientApi.Entities.Client})">
+            <summary>
+            Częściowo aktualizuje dane klienta (np. tylko e-mail lub numer telefonu).
+            </summary>
+            <param name="id">Identyfikator klienta.</param>
+            <param name="patchDoc">Dokument zawierający operacje do wykonania.</param>
+            <returns>Kod 200 z obiektem po aktualizacji lub 404 jeśli nie znaleziono.</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,15 @@
+C:\HotelApi\HotelService.Promotion.Storage\bin\Debug\net8.0\HotelService.Promotion.Storage.deps.json
+C:\HotelApi\HotelService.Promotion.Storage\bin\Debug\net8.0\HotelService.Promotion.Storage.runtimeconfig.json
+C:\HotelApi\HotelService.Promotion.Storage\bin\Debug\net8.0\HotelService.Promotion.Storage.dll
+C:\HotelApi\HotelService.Promotion.Storage\bin\Debug\net8.0\HotelService.Promotion.Storage.pdb
+C:\HotelApi\HotelService.Promotion.Storage\obj\Debug\net8.0\HotelService.Promotion.Storage.csproj.AssemblyReference.cache
+C:\HotelApi\HotelService.Promotion.Storage\obj\Debug\net8.0\HotelService.Promotion.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\HotelApi\HotelService.Promotion.Storage\obj\Debug\net8.0\HotelService.Promotion.Storage.AssemblyInfoInputs.cache
+C:\HotelApi\HotelService.Promotion.Storage\obj\Debug\net8.0\HotelService.Promotion.Storage.AssemblyInfo.cs
+C:\HotelApi\HotelService.Promotion.Storage\obj\Debug\net8.0\HotelService.Promotion.Storage.csproj.CoreCompileInputs.cache
+C:\HotelApi\HotelService.Promotion.Storage\obj\Debug\net8.0\HotelService.Promotion.Storage.sourcelink.json
+C:\HotelApi\HotelService.Promotion.Storage\obj\Debug\net8.0\HotelService.Promotion.Storage.dll
+C:\HotelApi\HotelService.Promotion.Storage\obj\Debug\net8.0\refint\HotelService.Promotion.Storage.dll
+C:\HotelApi\HotelService.Promotion.Storage\obj\Debug\net8.0\HotelService.Promotion.Storage.pdb
+C:\HotelApi\HotelService.Promotion.Storage\obj\Debug\net8.0\HotelService.Promotion.Storage.genruntimeconfig.cache
+C:\HotelApi\HotelService.Promotion.Storage\obj\Debug\net8.0\ref\HotelService.Promotion.Storage.dll

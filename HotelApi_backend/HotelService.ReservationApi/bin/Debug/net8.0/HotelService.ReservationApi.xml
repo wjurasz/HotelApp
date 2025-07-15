@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HotelService.ReservationApi</name>
+    </assembly>
+    <members>
+        <member name="M:HotelService.ReservationApi.Controllers.ReservationController.GetAll">
+            <summary>
+            Zwraca listę wszystkich rezerwacji.
+            </summary>
+            <returns>Lista rezerwacji z bazy danych.</returns>
+        </member>
+        <member name="M:HotelService.ReservationApi.Controllers.ReservationController.GetById(System.Int32)">
+            <summary>
+            Pobiera rezerwację na podstawie identyfikatora.
+            </summary>
+            <param name="id">Identyfikator rezerwacji.</param>
+            <returns>Obiekt rezerwacji z danymi klienta i ewentualnie promocji.</returns>
+        </member>
+        <member name="M:HotelService.ReservationApi.Controllers.ReservationController.Create(HotelService.Reservation.CrossCutting.Dtos.ReservationDto.Create)">
+            <summary>
+            Tworzy nową rezerwację.
+            </summary>
+            <param name="dto">Dane rezerwacji do utworzenia.</param>
+            <returns>Id rezerwacji, cena końcowa oraz użyta promocja (jeśli występuje).</returns>
+        </member>
+        <member name="M:HotelService.ReservationApi.Controllers.ReservationController.Confirm(System.Int32)">
+            <summary>
+            Potwierdza rezerwację.
+            </summary>
+            <param name="id">Identyfikator rezerwacji.</param>
+            <returns>Status 200 po pomyślnym potwierdzeniu.</returns>
+        </member>
+        <member name="M:HotelService.ReservationApi.Controllers.ReservationController.Cancel(System.Int32)">
+            <summary>
+            Anuluje rezerwację.
+            </summary>
+            <param name="id">Identyfikator rezerwacji.</param>
+            <returns>Status 200 po pomyślnym anulowaniu.</returns>
+        </member>
+    </members>
+</doc>

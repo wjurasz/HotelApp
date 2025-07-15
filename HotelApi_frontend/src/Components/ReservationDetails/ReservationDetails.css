@@ -1,0 +1,33 @@
+.reservation-details {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 30px;
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.reservation-details h2 {
+  text-align: center;
+  margin-bottom: 25px;
+  color: #222;
+}
+
+.reservation-details p {
+  font-size: 16px;
+  margin: 10px 0;
+  color: #333;
+}
+
+.not-found {
+  color: red;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.loading {
+  text-align: center;
+  margin-top: 50px;
+}
