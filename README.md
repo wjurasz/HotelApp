@@ -1,5 +1,5 @@
 
-# Hotel Reservation System – API
+# Hotel Reservation System
 
 
 
