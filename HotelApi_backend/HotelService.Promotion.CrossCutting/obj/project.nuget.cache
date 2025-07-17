@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ODb32bc0i/U=",
+  "dgSpecHash": "Iv+c8X2tsOs=",
   "success": true,
-  "projectFilePath": "C:\\HotelApi\\HotelApi_backend\\HotelService.Promotion.CrossCutting\\HotelService.Promotion.CrossCutting.csproj",
+  "projectFilePath": "C:\\HotelApiApp\\HotelApp\\HotelApi_backend\\HotelService.Promotion.CrossCutting\\HotelService.Promotion.CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juras\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\juras\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

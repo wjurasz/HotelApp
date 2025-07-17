@@ -4594,11 +4594,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HotelApi\\HotelApi_backend\\HotelService.Client.Storage\\HotelService.Client.Storage.csproj",
+      "projectUniqueName": "C:\\HotelApiApp\\HotelApp\\HotelApi_backend\\HotelService.Client.Storage\\HotelService.Client.Storage.csproj",
       "projectName": "HotelService.Client.Storage",
-      "projectPath": "C:\\HotelApi\\HotelApi_backend\\HotelService.Client.Storage\\HotelService.Client.Storage.csproj",
+      "projectPath": "C:\\HotelApiApp\\HotelApp\\HotelApi_backend\\HotelService.Client.Storage\\HotelService.Client.Storage.csproj",
       "packagesPath": "C:\\Users\\juras\\.nuget\\packages\\",
-      "outputPath": "C:\\HotelApi\\HotelApi_backend\\HotelService.Client.Storage\\obj\\",
+      "outputPath": "C:\\HotelApiApp\\HotelApp\\HotelApi_backend\\HotelService.Client.Storage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

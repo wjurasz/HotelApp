@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gig+fzFyu5k=",
+  "dgSpecHash": "OCADP121xGs=",
   "success": true,
-  "projectFilePath": "C:\\HotelApi\\HotelApi_backend\\HotelService.Reservation.CrossCutting\\HotelService.Reservation.CrossCutting.csproj",
+  "projectFilePath": "C:\\HotelApiApp\\HotelApp\\HotelApi_backend\\HotelService.Reservation.CrossCutting\\HotelService.Reservation.CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juras\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\juras\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
