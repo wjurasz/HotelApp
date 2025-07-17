@@ -8,7 +8,7 @@ Aby uruchomić aplikację, wykonaj poniższe kroki:
 
 ### 1️⃣ Sklonuj repozytorium
 ```bash
-git clone https://github.com/wjurasz/HotelServiceApi
+git clone https://github.com/wjurasz/HotelApp
 ```
 
 ### 2️⃣ Wykonaj migracje dla projektów .Storage
