@@ -5,33 +5,21 @@ import AddReservationForm from './Components/AddReservationForm/AddReservationFo
 import ReservationDetails from './Components/ReservationDetails/ReservationDetails';
 import SearchReservation from './Components/SearchReservation/SearchReservation';
 import Home from './Home/Home';
+import './App.css'; // Dodajemy import CSS
 
 function App() {
   return (
     <Router>
       <div className="App">
-        <nav style={{
-          padding: '12px 20px',
-          backgroundColor: '#f0f0f0',
-          marginBottom: '20px',
-          boxShadow: '0 2px 5px rgba(0,0,0,0.1)'
-        }}>
-          <Link to="list" style={{ marginRight: '20px', textDecoration: 'none', fontWeight: 'bold' }}>
-            🗂 Lista rezerwacji
-          </Link>
-          <Link to="/add" style={{ textDecoration: 'none', fontWeight: 'bold' }}>
-            ➕ Dodaj rezerwację
-          </Link>
-          <Link to="/search" style={{ marginLeft: '20px', textDecoration: 'none', fontWeight: 'bold' }}>
-            🔍 Sprawdź rezerwację
-          </Link>
-          <Link to="/" style={{ marginLeft: '20px', textDecoration: 'none', fontWeight: 'bold' }}>
-          🏠 Strona główna
-          </Link>
+        <nav className="navbar">
+          <Link to="/" className="nav-link">🏠 Strona główna</Link>
+          <Link to="/list" className="nav-link">🗂 Lista rezerwacji</Link>
+          <Link to="/add" className="nav-link">➕ Dodaj rezerwację</Link>
+          <Link to="/search" className="nav-link">🔍 Sprawdź rezerwację</Link>
           
         </nav>
 
-        <div style={{ padding: '20px' }}>
+        <div className="content">
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/list" element={<ReservationList />} />

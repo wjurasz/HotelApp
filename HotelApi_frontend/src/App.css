@@ -36,3 +36,43 @@
     transform: rotate(360deg);
   }
 }
+
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #f9f9fb;
+}
+
+.navbar {
+  background-color: #ffffff;
+  padding: 14px 30px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  border-radius: 0 0 12px 12px;
+}
+
+.nav-link {
+  color: #6a0dad;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 16px;
+  transition: all 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #5200aa;
+  transform: scale(1.05);
+}
+
+.content {
+  padding: 30px 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
