@@ -1,0 +1,37 @@
+# Build
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+
+# DLLs
+*.dll
+*.exe
+*.pdb
+
+# Test
+TestResults/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Copilot / db
+**/CopilotIndices/
+*.db
+*.db-shm
+*.db-wal
+
+# Office / diagrams
+*.vsdx
+
+# User/IDE
+*.user
+*.suo
+*.sln.docstates
